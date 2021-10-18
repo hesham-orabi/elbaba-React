@@ -1,0 +1,18 @@
+[
+    {"id": 1, "name": "Treadmill Profit 666D", "color":"Black", "price": 220, "image": "s1.jpg "},
+    {"id": 2, "name": "Orbitrac Super Magnetic Wheel KLJ 8719", "color":"Black", "price": 250, "image": "s2.jpg"},
+    {"id": 3, "name": "Multi Gym One Station Model: 01C", "color":"Black", "price": 310, "image": "s3.jpg"},
+    {"id": 4, "name": "Profit Elliptical Trainer - KLJ-6.5 HA", "color":"Black", "price": 235, "image": "s4.jpg"},
+    {"id": 5, "name": "Full Whole Body Super Fit Vibration Massage Machine CFM 014", "color":"Black", "price": 320, "image": "s5.jpg "},
+    {"id": 6, "name": "Treadmill Profit MT-1916", "color":"Black", "price": 270, "image": "s6.jpg"},
+    {"id": 7, "name": "Treadmill Profit 5014D", "color":"Black", "price": 400, "image": "s7.jpg"},
+    {"id": 8, "name": "Bicycle Trinx D210", "color":"Black", "price": 165, "image": "s8.jpg"},
+    {"id": 9, "name": "Bicycle Trinx 216V", "color":"Black", "price": 150, "image": "s9.jpg"},
+    {"id": 10, "name": "Bike Trinx M136", "price": 210, "image": "s10.jpg"},
+    {"id": 11, "name": "Pushups On Push Up Bars", "color":"Black", "price": 26, "image": "s11.jpg"},
+    {"id": 12, "name": "5-Spring Chest Pull", "color":"Green", "price": 21, "image": "s12.jpg"},
+    {"id": 13, "name": "Revoflex Xtreme abdominal trainer", "color":"Green", "price": 33, "image": "s13.jpg"},
+    {"id": 14, "name": "Weight Training Set IR97633", "color":"Green", "price":70, "image": "s14.jpg"}
+    
+  ]
+  

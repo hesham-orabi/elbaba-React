@@ -1,0 +1,22 @@
+[
+    {"id": 1, "name": "SET.1330 M", "color":"Silver", "price": 20, "image": "w1.jpg "},
+    {"id": 2, "name": "SET.1331 L", "color":"Silver", "price": 14, "image": "w2.jpg"},
+    {"id": 3, "name": "SET.1334 S", "color":"All Color", "price": 18, "image": "w3.jpg"},
+    {"id": 4, "name": "DA72 Q&Q men's watch", "color":"Black", "price": 25, "image": "w4.jpg"},
+    {"id": 5, "name": "Watch kit SET.1279-L", "color":"Black", "price": 22, "image": "w5.png "},
+    {"id": 6, "name": "WATCH KIT SET.1325-L", "color":"Brown", "price": 12, "image": "w6.jpg"},
+    {"id": 7, "name": "Watch A150M", "color":"Black", "price": 60, "image": "w7.jpg"},
+    {"id": 8, "name": "Watch Kit SET.1333-M", "color":"Black", "price": 32, "image": "w8.jpg"},
+    {"id": 9, "name": "Casio Women'sLeather Round Shape Analog", "color":"Rose", "price": 50, "image": "w9.jpg"},
+    {"id": 10, "name": "Casio Men's Black Dial Leather Band Watch - MTP-V001GL-1BUDF", "color":"Brown", "price": 45, "image": "w10.jpg"},
+    {"id": 11, "name": "Casio Marine Men's Black Dial Resin Band Watch - MRW-200H-9BVDF, Analog, Quartz", "color":"Black", "price": 65, "image": "w11.jpg"},
+    {"id": 12, "name": "Casio Blue Dial Watch For Men MTP-V004D-2BUDF", "color":"Silver", "price": 52, "image": "w12.jpg"},
+    {"id": 13, "name": "Casio watch MTP 1308 D", "color":"Black", "price": 38, "image": "w13.jpg"},
+    {"id": 14, "name": "Citizen Dress Watch For Men Analog Stainless Steel - BI5006-81P", "color":"Black", "price":200, "image": "w14.jpg"},
+    {"id": 15, "name": "BI5006-81L CITIZEN WATCH FOR MEN - SILVER&GOLD", "color":"Black", "price": 190, "image": "w15.jpg"},
+    {"id": 16, "name": "Citizen Casual Watch For Women Analog Stainless Steel - EU6052-53D", "color":"Gold", "price": 320, "image": "w16.jpg"},
+    {"id": 17, "name": "SWATCH RING BLING Stainless Steel Ladies Watch Silver*Gold Color: YSS286G", "color":"Silver & Gold", "price": 140, "image": "w17.jpg"},
+    {"id": 18, "name": "Swatch Casual Watch For Women Analog Stainless Steel - SVOC100M", "color":"Gold", "price": 250, "image": "w18.jpg"}
+    
+  ]
+  

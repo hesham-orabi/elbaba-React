@@ -1,0 +1,1 @@
+{"version":3,"sources":["store.js"],"names":["store","Reducers"],"mappings":";;;;;;;AAAA;;AACA;;;;AAEA,IAAMA,KAAK,GAAG,wBAAYC,oBAAZ,CAAd;eACeD,K","sourcesContent":["import {createStore} from 'redux';\r\nimport Reducers from './reducers';\r\n\r\nconst store = createStore(Reducers)\r\nexport default store;"],"file":"store.dev.js"}

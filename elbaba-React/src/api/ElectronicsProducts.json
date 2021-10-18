@@ -1,0 +1,33 @@
+[
+    {"id": 1, "name": "Nikai 32 Inch HD LED TV NE32LED + (32 Tv Wall mount for free)",  "color":"Black","price": 110, "image": "e1.jpg "},
+    {"id": 2, "name": "Fresh 32 Inch HD LED TV - 32LH321", "color":"Black", "price": 140, "image": "e2.jpg"},
+    {"id": 3, "name": "Fresh TV screen LED 32 Inch HD768p - 32LH323", "color":"Black", "price": 190, "image": "e3.png"},
+    {"id": 4, "name": "Nikai Smart HD LED TV, 32 Inch, Black NE32SLED + (32 Tv Wall mount for free)", "color":"Black", "price": 220, "image": "e4.jpg"},
+    {"id": 5, "name": "TOSHIBA LED TV 43 Inch Full HD With 3 HDMI and 2 USB Inputs 43L2800EV", "color":"Black", "price": 250, "image": "e5.jpg "},
+    {"id": 6, "name": "Ultra 50 Inch 4K UHD Smart TV UT50S4KU", "color":"Black", "price": 270, "image": "e6.jpg"},
+    {"id": 7, "name": "iLife ZED Note 14 Laptop- Intel HD, 14 inch, 64GB, 2GB, Gold", "color":"Gold", "price": 180, "image": "e7.jpg"},
+    {"id": 8, "name": "Sary Book Plus Notebook, Intel Atom Z8300, 14 Inch HD, 64GB, 2GB Ram", "color":"Silver", "price": 165, "image": "e8.jpg"},
+    {"id": 9, "name": "Dell Inspiron 3580 Laptop With 15.6-Inch Display, Celeron Processor-4GB RAM-500GB HDD-Integrated Graphic", "color":"Black", "price": 310, "image": "e9.jpg"},
+    {"id": 10, "name": "Acer V206HQL LED monitor 19.5 inch", "price": 110, "color":"Black", "image": "e10.jpg"},
+    {"id": 11, "name": "Lenovo IdeaPad 330-15IGM  15.6 - Celeron N4000 - 4 GB RAM - 1 TB HDD ,DOs", "color":"Black", "price": 420, "image": "e11.jpg"},
+    {"id": 12, "name": "PRINTER CANON INKJET MFP E474", "price": 150, "color":"Black", "image": "e12.jpg"},
+    {"id": 13, "name": "PRINTER HP DESKJET 2130.ALL.IN.ONE", "color":"White", "price": 220, "image": "e13.jpg"},
+    {"id": 14, "name": "HP LaserJet Pro M15w Printer USB 2.0 Hi-Speed,Wi-Fi-Cartridge 44A-W2G51A", "color":"White", "price":150, "image": "e14.jpg"},
+    {"id": 15, "name": "PRINTER CANON MFP MB2140 MEA", "price": 210, "color":"Black", "image": "e15.jpg"},
+    {"id": 16, "name": "PRINTER HP OFFICEJET PRO 8210 ALL.IN.ONE", "color":"Black", "price": 300, "image": "e16.jpg"},
+    {"id": 17, "name": "Unionaire UW400T-S Top Loading Washing Machine- 4Kg - White", "color":"White", "price": 450, "image": "e17.png"},
+    {"id": 18, "name": "Fresh Washing Machine BABY FWS300NA", "color":"White", "price": 420, "image": "e18.jpg"},
+    {"id": 19, "name": "Fresh Washing Machine Diamond FWT800NC", "color":"Red", "price": 350, "image": "e19.jpg"},
+    {"id": 20, "name": "White Whale Washing Machine 8 Kg Topload Silver  WD-885MT", "color":"Silver", "price": 410, "image": "e20.jpg"},
+    {"id": 21, "name": "Passap Up Right Freezer - 4 Drawers - 143 Liter,Silver HAOFF", "color":"Black", "price": 230, "image": "e21.jpg"},
+    {"id": 22, "name": "Alaska CH200 Chest Deep Freezer 208 Liter- White", "price": 310, "color":"White", "image": "e22.jpg"},
+    {"id": 23, "name": "Fresh Deep Freezer FDF-330 HAOFF", "price": 180, "color":"Red", "image": "e23.jpg"},
+    {"id": 24, "name": "Fresh Chest Freezer FDF.330B EXTRA, 290 Liters Black", "color":"Black", "price": 155, "image": "e24.jpg"},
+    {"id": 25, "name": "LG PK5 Xboom Go Wireless Bluetooth Speaker with Upto 18 Hours Playback and Grab & Go Handles LG OFFER", "color":"Black", "price": 200, "image": "e25.jpg"},
+    {"id": 26, "name": "SUB F&D WIRELESS T.388", "price": 195, "color":"Black", "image": "e26.jpg"},
+    {"id": 27, "name": "LG DVD Home Theater System, 2 Units, Black - LHD677", "color":"Black", "price": 180, "image": "e27.jpg"},
+    {"id": 28, "name": "LG DVD LHD427 330W 5.1Ch DVD Home Theater System", "color":"Black", "price": 240, "image": "e28.jpg"}
+    
+    
+  ]
+  

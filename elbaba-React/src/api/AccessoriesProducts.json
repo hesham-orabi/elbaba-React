@@ -1,0 +1,19 @@
+[
+  {"id": 1, "name": "Huawei Y5p dual SIM phone - 5.45 inches screen, 32 GB, 2 GB RAM, 4G LTE, black", "color":"Black", "price": 100, "image": "a1.jpg "},
+  {"id": 2, "name": "Samsung Galaxy Grand Prime Plus Black", "color":"Black", "price": 110, "image": "a2.jpg"},
+  {"id": 3, "name": "Infinix Smart 5, 2GB RAM, 32GB Memory Blue", "color":"Blue", "price": 120, "image": "a3.jpg"},
+  {"id": 4, "name": "Redmi 9A RAM 2 mobile phone with 32GB memory", "color":"Blue", "price": 115, "image": "a4.jpg"},
+  {"id": 5, "name": "Samsung Galaxy A01 Dual SIM - 16GB, 2GB RAM, 4G LTE, Red, SM-A015FZ", "color":"Red", "price": 145, "image": "a5.jpg "},
+  {"id": 6, "name": "Redmi 9C RAM 2 32GB Memory Blue", "color":"Blue", "price": 125, "image": "a6.jpg"},
+  {"id": 7, "name": "Huawei Mate Pad T8 - 16GB - Blue", "color":"Blue", "price": 150, "image": "a7.jpg"},
+  {"id": 8, "name": "Infinix Hot 9 Play 64GB Purple", "color":"Blue", "price": 140, "image": "a8.jpg"},
+  {"id": 9, "name": "HI-25 headphone", "color":"Black", "price": 2, "image": "a9.jpg"},
+  {"id": 10, "name": "i-train Hp031 Earphone", "color":"Black", "price": 1.5, "image": "a10.jpg"},
+  {"id": 11, "name": "Yison Earphone CX320 - Black", "color":"Black", "price": 2.5, "image": "a11.jpg"},
+  {"id": 12, "name": "Sleeper S30 headphone", "color":"Orange", "price": 4, "image": "a12.jpg"},
+  {"id": 13, "name": "Soda SCA200 iPhone Charging Cable", "color":"Orange", "price": 4.5, "image": "a13.jpg"},
+  {"id": 14, "name": "Sleeper G4 Headphone", "color":"Black", "price": 3, "image": "a14.jpg"},
+  {"id": 15, "name": "Wired headphones from GIGMAX for computer 2 jack with microphone model gm008 black and red", "color":"Red", "price": 6, "image": "a15.jpg"},
+  {"id": 16, "name": "bluetooth car", "color":"Black", "price": 6.5, "image": "a16.jpg"}
+  
+]

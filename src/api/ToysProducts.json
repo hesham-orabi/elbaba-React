@@ -1,0 +1,20 @@
+[
+    {"id": 1, "name": "Rubik's Cube 0111", "color":"Black", "price": 1, "image": "t1.jpg "},
+    {"id": 2, "name": "Thomas Train", "color":"Black", "price": 1.5, "image": "t2.jpg"},
+    {"id": 3, "name": "Hunting Series Toy Hunting Bow", "color":"Black", "price": 5, "image": "t3.jpg"},
+    {"id": 4, "name": "Chuangfa Toys Rabbit Music Piano For Unisex", "color":"Black", "price": 10, "image": "t4.jpg"},
+    {"id": 5, "name": "T13 jungle animals manual movement", "color":"Black", "price": 6, "image": "t5.jpg "},
+    {"id": 6, "name": "Electric keyboard 3738", "color":"Black", "price": 12, "image": "t6.jpg"},
+    {"id": 7, "name": "Remote Control spiderman Stunt Car with sound and light", "color":"Black", "price": 10, "image": "t7.jpg"},
+    {"id": 8, "name": "Excavator model toy with rechargeable remote control", "color":"Yellow", "price": 8, "image": "t8.jpg"},
+    {"id": 9, "name": "Paz fly and Udi 693", "color":"Black", "price": 4, "image": "t9.jpg"},
+    {"id": 10, "name": "Buzz sword and gun fly game for children", "color":"Black", "price": 11, "image": "t10.jpg"},
+    {"id": 11, "name": "Casio Mini Keyboard, Black - SA-78", "color":"Black", "price": 90, "image": "t11.jpg"},
+    {"id": 12, "name": "Sports Car With Remote Control", "color":"Red", "price": 40, "image": "t12.jpg"},
+    {"id": 13, "name": "Gomaa Bike 8112010", "color":"Orange", "price": 87, "image": "t13.jpg"},
+    {"id": 14, "name": "Abo Elmagd Bike 20", "color":"Yellow", "price":75, "image": "t14.jpg"},
+    {"id": 15, "name": "PHillips Bike Size 20", "color":"Red", "price": 80, "image": "t15.jpg"},
+    {"id": 16, "name": "Gomaa Bike 812003", "color":"Blue", "price": 95, "image": "t16.jpg"}
+    
+  ]
+  

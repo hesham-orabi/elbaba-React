@@ -1,0 +1,14 @@
+[
+    {"id": 1, "name": "Lenovo- Gaming 3 15IMH05 (Intel® Core™I7-10750H - 16GB - 1TB+256GBSSD - NVIDIA® GeForce® GTX1650 4GB - 15.6 HD Black+ Tab E7 For Free", "color":"Black", "price": 195, "image": "o1.jpg "},
+    {"id": 2, "name": "Xiaomi Mi Smart Band 5 ‫ Global Version  - Black", "color":"Black", "price": 97, "image": "o2.jpg"},
+    {"id": 3, "name": "Media Tech MT.1700 Drum Vacuum Cleaner 1600 Watt MDoffer", "color":"Black", "price": 1100, "image": "o3.jpg"},
+    {"id": 4, "name": "MSI LAPOTP GF63 THIN 9SCSR ( I5-9300H-8GB RAM-512GB SSD-15.6 INCH FHD-NG FORCE GTX 1650 TI 4GB-DOS )+MOUSE+PAD MOUSE For Free MSIOffer", "color":"Mov", "price": 750, "image": "o4.jpg"},
+    {"id": 5, "name": "Braun Silk-épil 1 1170 Epilator - Pink PerscareOffer", "color":"White", "price": 705, "image": "o5.jpg "},
+    {"id": 6, "name": "Braun 6-in-1 All-in-one Trimmer 3 MGK3221, Beard Trimmer for Men PerscareOffer", "color":"White", "price": 379, "image": "o6.png"},
+    {"id": 7, "name": "Fresh Microwave, 20 Liters, 700 Watt, White - FMW-20MC-W MDoffer ", "color":"Black", "price": 440, "image": "o7.jpg"},
+    {"id": 8, "name": "Nikai 32 Inch HD LED TV NE32LED + (32 Tv Wall mount for free)", "color":"Black", "price": 1550, "image": "o8.jpg"},
+    {"id": 9, "name": "Fresh Freestanding Dishwasher, 8 Place Settings, 45 cm, Silver - WQP8-9259 MDoffer", "price": 950, "color":"Black", "image": "o9.jpg"},
+    {"id": 10, "name": "Sandisk Cruzer Spark 16GB, USB 2.0, Flash Drive ( 2 Flash memory offer )", "color":"Red", "price": 40, "image": "o10.jpg"}
+
+  ]
+  

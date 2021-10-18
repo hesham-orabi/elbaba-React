@@ -1,0 +1,24 @@
+[
+    {"id": 1, "name": "ALREHAB FANTASTIC EDP 50ML", "color":"Red", "price": 6, "image": "p1.jpg "},
+    {"id": 2, "name": "NEW NB BLEU POUR HOMME", "color":"Mov", "price": 8, "image": "p2.jpg"},
+    {"id": 3, "name": "LILIUM VELUET", "color":"Mov", "price": 12, "image": "p3.jpg"},
+    {"id": 4, "name": "MYSTIC blue 100ML", "color":"Mov", "price": 9, "image": "p4.jpg"},
+    {"id": 5, "name": "NB NEW BLUE WOMEN EDT 100ML", "color":"Mov", "price": 14, "image": "p5.jpg "},
+    {"id": 6, "name": "NB NEW red MEN EDT 100ML", "color":"Red", "price": 16, "image": "p6.png"},
+    {"id": 7, "name": "SUPEREME ROYAL EDT 100ML ", "color":"Black", "price": 10, "image": "p7.jpg"},
+    {"id": 8, "name": "GRAND XL XAVIER LAURENT 100ML", "color":"Black", "price": 8, "image": "p8.jpg"},
+    {"id": 9, "name": "Xl chocolat 100 ml", "price": 17, "color":"Black", "image": "p9.jpg"},
+    {"id": 10, "name": "PURE RED FOR MEN 100ML", "color":"Red", "price": 21, "image": "p10.jpg"},
+    {"id": 11, "name": "PURE VIBE MEN EDT 100ML", "color":"Black", "price": 32, "image": "p11.jpg"},
+    {"id": 12, "name": "LOMANI VIRTUAL EDT 100ML", "color":"Brown", "price": 18, "image": "p12.jpg"},
+    {"id": 13, "name": "STERLING ESTIARA FREEOLA EDP 100ML", "color":"Gold", "price": 20, "image": "p13.jpg"},
+    {"id": 14, "name": "STERLING ESTIARA DARK PINK WOMEN EDP 100ML", "color":"Rose", "price":15, "image": "p14.jpg"},
+    {"id": 15, "name": "LIVELY MEN EDT 100ML", "color":"Blue", "price": 27, "image": "p15.jpg"},
+    {"id": 16, "name": "PURE COUTURE NOIR FOR WOMEN EDP 100ML", "color":"Rose", "price": 15, "image": "p16.jpg"},
+    {"id": 17, "name": "PURE D`OR FOR WOMEN EDP 100ML", "color":"Gold", "price": 24, "image": "p17.jpg"},
+    {"id": 18, "name": "PURE GLASS FEMME EDP 100ML", "color":"Red", "price": 9, "image": "p18.jpg"},
+    {"id": 19, "name": "PRIVE  ONCE UPONA TIME", "color":"Gold", "price": 13, "image": "p19.jpg"},
+    {"id": 20, "name": "MAGNETA", "price": 15, "color":"Rose", "image": "p20.jpg"}
+    
+  ]
+  
